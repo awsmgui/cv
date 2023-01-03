@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="300px" viewBox="0 0 800 300" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="2.4999988" y1="0.0041436437" x2="2.4999988" y2="20.004145" id="gradient_1">
+      <stop offset="0%" stop-color="#E0EBE8" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="2.9999921" y1="0.0021079616" x2="2.9999921" y2="26.00211" id="gradient_2">
+      <stop offset="0%" stop-color="#E0EBE8" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+    <path d="M0 0L800 0L800 300L0 300L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="land">
+    <path d="M0 0L800 0L800 300L0 300L0 0Z" id="Fundo" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <g id="flagLeft" transform="translate(17.5 70.5)">
+        <path d="M36.5 9.5L40.5 9.5L40.5 153.5L36.5 153.5L36.5 9.5Z" id="flagPoleLeft" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+        <path d="M0 35.33L41 20L41 52L0 35.33L0 35.33Z" id="leftGreenFlag2" fill="#F4A0A0" stroke="none" />
+        <path d="M0 15.33L41 0L41 32L0 15.33L0 15.33Z" id="leftGreenFlag" fill="#495579" stroke="none" />
+      </g>
+      <g id="flagRight" transform="translate(677.5 70.5)">
+        <path d="M36.5 9.5L40.5 9.5L40.5 153.5L36.5 153.5L36.5 9.5Z" id="flagPoleLeft2" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+        <path d="M0 35.33L41 20L41 52L0 35.33L0 35.33Z" id="leftGreenFlag3" fill="#495579" stroke="none" />
+        <path d="M0 15.33L41 0L41 32L0 15.33L0 15.33Z" id="leftGreenFlag4" fill="#F4A0A0" stroke="none" />
+      </g>
+      <g id="brownHouse" transform="translate(396.06 6.9958572)">
+        <path d="M3.94 27.0041L26.94 27.0041L26.94 50.0041L3.94 50.0041L3.94 27.0041Z" id="rectangle15" fill="#CA8A65" fill-rule="evenodd" stroke="none" />
+        <path d="M6.94 31.0041L12.94 31.0041L12.94 37.0041L6.94 37.0041L6.94 31.0041Z" id="rectangle16" fill="#C6F7FB" fill-rule="evenodd" stroke="none" />
+        <path d="M18.94 31.0041L24.94 31.0041L24.94 37.0041L18.94 37.0041L18.94 31.0041Z" id="rectangle17" fill="#C6F7FB" fill-rule="evenodd" stroke="none" />
+        <path d="M6.94 41.0041L12.94 41.0041L12.94 47.0041L6.94 47.0041L6.94 41.0041Z" id="rectangle18" fill="#C6F7FB" fill-rule="evenodd" stroke="none" />
+        <path d="M18.94 41.0041L24.94 41.0041L24.94 50.0041L18.94 50.0041L18.94 41.0041Z" id="rectangle19" fill="#70595E" fill-rule="evenodd" stroke="none" />
+        <path d="M15.44 15.3841L30.88 27.7941L0 27.7941L15.44 15.3841L15.44 15.3841Z" id="polygon2" fill="#70595E" stroke="none" />
+        <path d="M19.95 9.30414C20.04 3.79414 21.24 -0.355856 22.61 0.0241442C23.99 0.414144 25.03 5.19414 24.93 10.7041C24.84 16.2141 23.64 20.3641 22.27 19.9841C20.96 19.6141 19.94 15.2541 19.94 10.0041" id="oval10" fill="url(#gradient_1)" stroke="none" />
+        <path d="M18.94 16.0041L25.44 16.0041L25.44 25.0041L18.94 25.0041L18.94 16.0041Z" id="rectangle20" fill="#70595E" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="hills" transform="translate(-8 49)">
+        <path d="M209 179C209 80.14 293.62 0 398 0C502.38 0 587 80.14 587 179L398 179L209 179Z" id="backHill" fill="#263159" stroke="none" />
+        <path d="M330 331C330 207.29 434.09 107 562.5 107C690.91 107 795 207.29 795 331L562.5 331L330 331Z" id="whiteHill" fill="#C5C5C5" stroke="none" />
+        <path d="M0 316C0 186.21 113.94 81 254.5 81C395.06 81 509 186.21 509 316L254.5 316L0 316Z" id="leftHill" fill="#495579" stroke="none" />
+      </g>
+      <path d="M223 127L251 127L251 148L223 148L223 127Z" id="rectangle9" fill="#6DA0AB" fill-rule="evenodd" stroke="none" />
+      <path d="M227 137L235 137L235 145L227 145L227 137Z" id="rectangle11" fill="#C6F7FB" fill-rule="evenodd" stroke="none" />
+      <path d="M240 130L248 130L248 138L240 138L240 130Z" id="rectangle11-2" fill="#C6F7FB" fill-rule="evenodd" stroke="none" />
+      <g id="yellowTree" transform="translate(78.5 142.5)">
+        <path d="M2.5 70C2.5 66.9624 7.87258 64.5 14.5 64.5C21.1274 64.5 26.5 66.9624 26.5 70C26.5 73.0376 21.1274 75.5 14.5 75.5C7.87258 75.5 2.5 73.0376 2.5 70Z" id="oval" fill="#353E5A" fill-rule="evenodd" stroke="none" />
+        <path d="M0 56L13.38 0L29 56L0 56L0 56Z" id="bezier" fill="#F6D546" stroke="none" />
+        <path d="M13.5 32.5L15.5 32.5L15.5 69.5L13.5 69.5L13.5 32.5Z" id="rectangle" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M14 41.84L19.73 36L21 37.3L14.64 43.78L14.21 44L14 41.84L14 41.84Z" id="bezier2" fill="#AF946C" stroke="none" />
+        <path d="M14 49.84L19.73 44L21 45.3L14.64 51.78L14.21 52L14 49.84L14 49.84Z" id="bezier3" fill="#AF946C" stroke="none" />
+        <path d="M15 45.84L9.27 40L8 41.3L14.36 47.78L14.79 48L15 45.84L15 45.84Z" id="bezier4" fill="#AF946C" stroke="none" />
+      </g>
+      <g id="yellowTree2" transform="translate(152.5 121.450195)">
+        <path d="M4.5 62.5498C4.5 60.3407 9.08908 58.5498 14.75 58.5498C20.4109 58.5498 25 60.3407 25 62.5498C25 64.7589 20.4109 66.5498 14.75 66.5498C9.08908 66.5498 4.5 64.7589 4.5 62.5498Z" id="oval3" fill="#353E5A" fill-rule="evenodd" stroke="none" />
+        <path d="M0 50.85L13.38 0L29 50.85L0 50.85L0 50.85Z" id="bezier9" fill="#F4A0A0" stroke="none" />
+        <path d="M13.5 32.5498L15.5 32.5498L15.5 62.5498L13.5 62.5498L13.5 32.5498Z" id="rectangle3" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M14 37.9899L19.73 32.6899L21 33.8699L14.64 39.7599L14.21 39.9499L14 37.9899L14 37.9899Z" id="bezier10" fill="#AF946C" stroke="none" />
+        <path d="M14 45.2502L19.73 39.9502L21 41.1302L14.64 47.0202L14.21 47.2102L14 45.2502L14 45.2502Z" id="bezier11" fill="#AF946C" stroke="none" />
+        <path d="M15 41.6198L9.27 36.3198L8 37.4998L14.36 43.3898L14.79 43.5798L15 41.6198L15 41.6198Z" id="bezier12" fill="#AF946C" stroke="none" />
+      </g>
+      <g id="yellowTree3" transform="translate(577.5 129.45)">
+        <path d="M3.5 62.55C3.5 60.3409 8.31294 58.55 14.25 58.55C20.1871 58.55 25 60.3409 25 62.55C25 64.7591 20.1871 66.55 14.25 66.55C8.31294 66.55 3.5 64.7591 3.5 62.55Z" id="oval4" fill="#B5B5B5" fill-rule="evenodd" stroke="none" />
+        <path d="M0 50.85L13.38 0L29 50.85L0 50.85L0 50.85Z" id="bezier13" fill="#F4A0A0" stroke="none" />
+        <path d="M13.5 32.55L15.5 32.55L15.5 62.55L13.5 62.55L13.5 32.55Z" id="rectangle4" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M14 37.99L19.73 32.69L21 33.87L14.64 39.76L14.21 39.95L14 37.99L14 37.99Z" id="bezier14" fill="#AF946C" stroke="none" />
+        <path d="M14 45.25L19.73 39.95L21 41.13L14.64 47.02L14.21 47.21L14 45.25L14 45.25Z" id="bezier15" fill="#AF946C" stroke="none" />
+        <path d="M15 41.62L9.27002 36.32L8 37.5L14.36 43.39L14.79 43.58L15 41.62L15 41.62Z" id="bezier16" fill="#AF946C" stroke="none" />
+      </g>
+      <g id="yellowTree4" transform="translate(653.5 138.5)">
+        <path d="M4.5 69.5C4.5 67.2909 8.97715 65.5 14.5 65.5C20.0228 65.5 24.5 67.2909 24.5 69.5C24.5 71.7091 20.0228 73.5 14.5 73.5C8.97715 73.5 4.5 71.7091 4.5 69.5Z" id="oval5" fill="#B5B5B5" fill-rule="evenodd" stroke="none" />
+        <path d="M0 56L13.38 0L29 56L0 56L0 56Z" id="bezier17" fill="#F6D546" stroke="none" />
+        <path d="M13.5 32.5L15.5 32.5L15.5 69.5L13.5 69.5L13.5 32.5Z" id="rectangle5" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M14 41.84L19.73 36L21 37.3L14.64 43.78L14.21 44L14 41.84L14 41.84Z" id="bezier18" fill="#AF946C" stroke="none" />
+        <path d="M14 49.84L19.73 44L21 45.3L14.64 51.78L14.21 52L14 49.84L14 49.84Z" id="bezier19" fill="#AF946C" stroke="none" />
+        <path d="M15 45.84L9.27002 40L8 41.3L14.36 47.78L14.79 48L15 45.84L15 45.84Z" id="bezier20" fill="#AF946C" stroke="none" />
+      </g>
+      <g id="darkGreenTree2" transform="translate(619.5 186.49023)">
+        <path d="M2.5 59.51C2.5 57.3009 7.87258 55.51 14.5 55.51C21.1274 55.51 26.5 57.3009 26.5 59.51C26.5 61.7191 21.1274 63.51 14.5 63.51C7.87258 63.51 2.5 61.7191 2.5 59.51Z" id="oval6" fill="#B5B5B5" fill-rule="evenodd" stroke="none" />
+        <path d="M29.11 40.7905C29.11 49.7896 22.7885 54.81 14.5551 54.81C6.32146 54.81 0 49.7896 0 40.7905C0 21.8432 9.28988 0 14.5551 0C19.8202 0 29.11 21.8432 29.11 40.7905" id="Fill-1" fill="#217D68" fill-rule="evenodd" stroke="none" />
+        <path d="M13.5 26.51L15.5 26.51L15.5 59.51L13.5 59.51L13.5 26.51Z" id="rectangle6" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M14 33.26L19.73 27.5L21 28.78L14.64 35.19L14.21 35.4L14 33.26L14 33.26Z" id="bezier22" fill="#AF946C" stroke="none" />
+        <path d="M14 41.16L19.73 35.4L21 36.68L14.64 43.09L14.21 43.3L14 41.16L14 41.16Z" id="bezier23" fill="#AF946C" stroke="none" />
+        <path d="M15 37.21L9.27002 31.45L8 32.73L14.36 39.14L14.79 39.35L15 37.21L15 37.21Z" id="bezier24" fill="#AF946C" stroke="none" />
+      </g>
+      <g id="yellowTree5" transform="translate(117.5 132.5)">
+        <path d="M2.5 64C2.5 60.9624 7.87258 58.5 14.5 58.5C21.1274 58.5 26.5 60.9624 26.5 64C26.5 67.0376 21.1274 69.5 14.5 69.5C7.87258 69.5 2.5 67.0376 2.5 64Z" id="oval2" fill="#353E5A" fill-rule="evenodd" stroke="none" />
+        <path d="M29.11 40.7905C29.11 49.7896 22.7885 54.81 14.5551 54.81C6.32146 54.81 0 49.7896 0 40.7905C0 21.8432 9.28988 0 14.5551 0C19.8202 0 29.11 21.8432 29.11 40.7905" id="Fill-1" fill="#81C288" fill-rule="evenodd" stroke="none" />
+        <path d="M13.5 26.5L15.5 26.5L15.5 63.5L13.5 63.5L13.5 26.5Z" id="rectangle2" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M14 35.84L19.73 30L21 31.3L14.64 37.78L14.21 38L14 35.84L14 35.84Z" id="bezier6" fill="#AF946C" stroke="none" />
+        <path d="M14 43.84L19.73 38L21 39.3L14.64 45.78L14.21 46L14 43.84L14 43.84Z" id="bezier7" fill="#AF946C" stroke="none" />
+        <path d="M15 39.84L9.27 34L8 35.3L14.36 41.78L14.79 42L15 39.84L15 39.84Z" id="bezier8" fill="#AF946C" stroke="none" />
+      </g>
+      <g id="yellowTree5-2" transform="translate(466.5 36.5)">
+        <path d="M2.5 64C2.5 60.9624 7.87258 58.5 14.5 58.5C21.1274 58.5 26.5 60.9624 26.5 64C26.5 67.0376 21.1274 69.5 14.5 69.5C7.87258 69.5 2.5 67.0376 2.5 64Z" id="oval2" fill="#353E5A" fill-rule="evenodd" stroke="none" />
+        <path d="M29.11 40.7905C29.11 49.7896 22.7885 54.81 14.5551 54.81C6.32146 54.81 0 49.7896 0 40.7905C0 21.8432 9.28988 0 14.5551 0C19.8202 0 29.11 21.8432 29.11 40.7905" id="Fill-1" fill="#217D68" fill-rule="evenodd" stroke="none" />
+        <path d="M13.5 26.5L15.5 26.5L15.5 63.5L13.5 63.5L13.5 26.5Z" id="rectangle2" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M14 35.84L19.73 30L21 31.3L14.64 37.78L14.21 38L14 35.84L14 35.84Z" id="bezier6" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M14 43.84L19.73 38L21 39.3L14.64 45.78L14.21 46L14 43.84L14 43.84Z" id="bezier7" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M15 39.84L9.27 34L8 35.3L14.36 41.78L14.79 42L15 39.84L15 39.84Z" id="bezier8" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="yellowTree6" transform="translate(324.1 23.19043)">
+        <path d="M1.89999 64.3096C1.89999 61.272 7.27258 58.8096 13.9 58.8096C20.5274 58.8096 25.9 61.272 25.9 64.3096C25.9 67.3471 20.5274 69.8096 13.9 69.8096C7.27258 69.8096 1.89999 67.3471 1.89999 64.3096Z" id="oval7" fill="#364475" fill-rule="evenodd" stroke="none" />
+        <path d="M29.11 40.7905C29.11 49.7896 22.7885 54.81 14.5551 54.81C6.32145 54.81 -7.62939e-06 49.7896 -7.62939e-06 40.7905C-7.62939e-06 21.8432 9.28987 0 14.5551 0C19.8202 0 29.11 21.8432 29.11 40.7905" id="Fill-1" fill="#81C288" fill-rule="evenodd" stroke="none" />
+        <path d="M12.9 26.8096L14.9 26.8096L14.9 63.8096L12.9 63.8096L12.9 26.8096Z" id="rectangle7" fill="#AF946C" fill-rule="evenodd" stroke="none" />
+        <path d="M13.4 36.1496L19.13 30.3096L20.4 31.6096L14.04 38.0896L13.61 38.3096L13.4 36.1496L13.4 36.1496Z" id="bezier26" fill="#AF946C" stroke="none" />
+        <path d="M13.4 44.1496L19.13 38.3096L20.4 39.6096L14.04 46.0896L13.61 46.3096L13.4 44.1496L13.4 44.1496Z" id="bezier27" fill="#AF946C" stroke="none" />
+        <path d="M14.4 40.1496L8.66998 34.3096L7.39999 35.6096L13.76 42.0896L14.19 42.3096L14.4 40.1496L14.4 40.1496Z" id="bezier28" fill="#AF946C" stroke="none" />
+      </g>
+      <g id="blueHouse" transform="translate(188.08 82.997894)">
+        <path d="M4.92 35.002L34.92 35.002L34.92 65.002L4.92 65.002L4.92 35.002Z" id="rectangle9" fill="#6DA0AB" fill-rule="evenodd" stroke="none" />
+        <path d="M8.92 40.0021L16.92 40.0021L16.92 48.0021L8.92 48.0021L8.92 40.0021Z" id="rectangle10" fill="#C6F7FB" fill-rule="evenodd" stroke="none" />
+        <path d="M23.92 40.002L31.92 40.002L31.92 48.002L23.92 48.002L23.92 40.002Z" id="rectangle11" fill="#C6F7FB" fill-rule="evenodd" stroke="none" />
+        <path d="M8.92 53.0021L16.92 53.0021L16.92 61.0021L8.92 61.0021L8.92 53.0021Z" id="rectangle12" fill="#C6F7FB" fill-rule="evenodd" stroke="none" />
+        <path d="M23.92 53.0021L31.92 53.0021L31.92 65.0021L23.92 65.0021L23.92 53.0021Z" id="rectangle13" fill="#70595E" fill-rule="evenodd" stroke="none" />
+        <path d="M19.92 20.0021L39.84 36.1221L0 36.1221L19.92 20.0021L19.92 20.0021Z" id="polygon" fill="#70595E" stroke="none" />
+        <path d="M47.8 36L67.72 44.12L27.88 44.12L47.8 36L47.8 36Z" id="polygon-2" fill="#70595E" fill-rule="evenodd" stroke="none" />
+        <path d="M25.93 12.0921C26.04 4.93211 27.48 -0.467896 29.13 0.0321045C30.78 0.532105 32.03 6.7421 31.91 13.9121C31.8 21.0721 30.36 26.4721 28.71 25.9721C27.14 25.4921 25.92 19.8321 25.92 13.0021" id="oval9" fill="url(#gradient_2)" stroke="none" />
+        <path d="M24.92 21.0021L32.42 21.0021L32.42 33.0021L24.92 33.0021L24.92 21.0021Z" id="rectangle14" fill="#70595E" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

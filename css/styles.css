@@ -1,0 +1,167 @@
+body {
+    font-family: 'Assistant', sans-serif;  
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+hr {
+    border-style: hidden;
+}
+
+h1 {
+    color: #263159;
+    font-size: 300%;
+    font-family: 'Architects Daughter', cursive;
+    margin: 50px auto 0px auto;
+}
+h2 {
+    color: #263159;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3 {
+    color: #495579;
+    font-family: 'Architects Daughter', cursive;
+}
+a {
+    color: #495579;
+}
+
+p {
+    color:rgb(72, 72, 72)
+}
+
+
+.web {
+    text-decoration: underline;
+}
+
+
+.top-container {
+    background-color: #FFFBEB ;
+    position: relative;
+    height: 565px;
+    padding-top: 100px;
+    border-bottom: 0px;
+}
+
+.middle-container {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.bottom-container {
+    background-color: #FFFBEB;
+    height: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    line-height: 1.5;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 450px;
+    top: 50px;    
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 450px;  
+    bottom: 300px;   
+}
+
+.profile {
+    margin: 80px auto 100px auto;
+    line-height: 1.5;
+    text-align: center;
+    size: 20px;
+    width: 25%;
+}
+
+.me-hi-img {
+    float: center;
+    margin-bottom: -15px;
+    width: 35%;
+}
+
+.skill-row {
+    margin: 80px auto 100px auto;
+    line-height: 1.5;
+    text-align: left;
+    width: 40%;
+}
+
+.me-img {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.meDev-img {   
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.contact-me {
+    margin: 100px auto 100px auto;
+    line-height: 1.5;
+    text-align: center;
+    width: 35%;
+}
+
+.footer-link {
+    text-decoration: none;
+    white-space: pre;
+}
+
+.copyright {
+    font-size: small;
+    margin-top: 40px;
+    text-decoration: none;
+    color: #263159;
+}
+
+.copyright-link {
+    font-size: small;
+    margin-top: 40px;
+    color: #273156;
+}
+
+.copyright-link:hover {
+    font-size: small;
+    margin-top: 40px;
+    color: #000000;
+}
+
+.footer-link:hover {
+    color: #263159;
+}
+
+.button {
+    font-size: .8em;
+    text-align: center;
+    display: block;
+    position: relative;
+    background: #495579;
+    padding: .75em 2em .75em 3.5em;
+    color: #263159;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    font-family: 'Architects Daughter', cursive;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    color: #FFFBEB;
+}
+
+
+
